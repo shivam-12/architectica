@@ -1,0 +1,106 @@
+body{
+	margin:0px;
+	padding:0px;
+	}
+#holder{
+	
+	width:99.9%;
+	height:140%;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	}
+#header{
+	
+	width:99.9%;
+	height:10%;
+	margin-top:-1%;
+	margin-right:0px;
+	margin-left:0px;
+	}
+
+#header a{
+	font-size:18px;
+	float:right;
+	background-color:#E4E5BB;
+	width:40%;
+	height:5%;
+	text-align:center;
+	margin:10px 20px 20px 20px;
+	font-weight:bold;
+	line-height:150%;
+	border-radius:10px;
+	}	
+#header a{
+	text-decoration:none;
+	color:black;
+	}
+
+#login{
+	background-color: #e7effc;
+	text-align:center;
+	width:99.9%;
+	color:#DFDCD9;
+	font-family:'arial';
+    font-style:bold;
+	height:90%;
+	}
+#p{
+	font-family:'arial';
+    font-style:bold;
+	width:35%;
+	height:69.3%;
+	margin-left:53.6%;
+	margin-top:-40.3%;
+	background-color:white;
+	}
+#p1{
+	margin-left:15%;
+	margin-top:-2%;
+	}
+.button {
+  background-color: #354BB7; 
+  border: none;
+  padding: 3% 20%;
+  text-align: center;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius:8px;
+}
+.button1 {
+  background-color: #2CD537;
+  border: none;
+  padding:  3% 21%;
+  text-align: center;
+  font-size: 15px;
+  margin: 3% 2%;
+  cursor: pointer;
+  border-radius:8px;
+}
+.button2 {
+  background-color: #FC6446; 
+  border: none;
+  color: white;
+  padding: 3.5% 34%;
+  text-align: center;
+  font-size: 14px;
+  margin: 4% 2%;
+  cursor: pointer;
+  border-radius:8px;
+}
+::placeholder {
+  font-size:18px;
+}
+input[type="email"] {
+    font-size: 20px;
+	padding-left: 2%;
+	padding: 3%; 
+}
+input[type="password"] {
+    font-size: 20px;
+	padding: 3%;
+	padding-left: 3%;
+}
+
+
