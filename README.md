@@ -1,0 +1,2 @@
+# architectica
+internship task
