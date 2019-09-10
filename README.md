@@ -2,7 +2,7 @@
 Internship selection task
 
 In this project, login/signup module has been implemented using php, html, and css -
-1. Complete htmp page has been recreated for login/signup module.
+1. Complete html page has been recreated for login/signup module.
 2. Registered users can login and will be redirected to https://www.klook.com/en-IN/ (to demo a task of landing to home page after logging-in).
 3. User can get registered using signup tab.
 4. On entering worng username/password while logging-in, user would be prompted to enter valid username/password. 
